@@ -2,7 +2,7 @@
     "name": "chrisdfr/env",
     "description": "Classe permettant de charger un fichier de configuration avec des variables d’environnement pour un projet php",
     "type": "library",
-    "keywords": ["env", "conf", "environnement", "configuration"],
+    "keywords": [".env", "env", "conf", "environnement", "configuration"],
     "license": "LGPL-2.1-or-later",
     "autoload": {
         "psr-4": {
@@ -12,7 +12,7 @@
     "authors": [
         {
             "name": "Christophe Dufour",
-            "email": "blackfox@proximus.be"
+            "email": "chrisdfr@proximus.be"
         }
     ],
     "minimum-stability": "stable",
