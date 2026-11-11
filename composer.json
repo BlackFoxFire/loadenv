@@ -1,15 +1,12 @@
 {
-    "name": "blackfox/loadenv",
+    "name": "chrisdfr/env",
     "description": "Classe permettant de charger un fichier de configuration avec des variables d’environnement pour un projet php",
     "type": "library",
     "keywords": ["env", "conf", "environnement", "configuration"],
-    "require-dev": {
-        "symfony/var-dumper": "^8.1"
-    },
     "license": "LGPL-2.1-or-later",
     "autoload": {
         "psr-4": {
-            "Blackfox\\Loadenv\\": "src/"
+            "ChrisDfr\\Env\\": "src/"
         }
     },
     "authors": [
